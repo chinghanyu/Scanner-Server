@@ -3,8 +3,9 @@
 # Linux Scan Server
 # http://scannerserver.online02.com
 #
-# Written by PHiLLIP KLiEWER
-# Last Update: 09/13/2008
+# Originally Written by PHiLLIP KLiEWER
+# Currently Maintained by Ching-Han Yu
+# Last Update: 06/08/2012
 #
 #
 # V1.0   - Worked for MEH!
