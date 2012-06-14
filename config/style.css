@@ -1,0 +1,220 @@
+/*
+
+CSS template file for Linux Scanner Server Webfront-end
+
+http://ubuntu.online02.com/linux_scanner_server
+	3c9642
+	3c7796
+	9ecf39
+*/
+
+body {
+	margin: 0;
+	padding: 1em;
+	font: 12px verdana, arial, helvetica, sans-serif;
+	font-size: 12px;
+}
+
+a {
+	color: #3c7796;
+}
+
+a:hover {
+	color: #963c8f;
+}
+
+#container {
+	width: 756px;
+	height: 100%;
+	margin: auto;
+	padding: 3px;
+	border: 1px solid #3c7796;
+	text-align: left;
+}
+
+#header {
+	width: 750px;
+	height: 75px;
+	margin: 3px 3px 3px 3px;
+	border: 0px solid #3c7796;
+	padding: 0px;
+	background: #3c7796;
+}
+
+#sidebar {
+	width: 278px;
+	float: left;
+	margin: 3px 3px 3px 3px;
+}
+
+#preview {
+	width: 464px;
+	border: 1px solid #3c7796;
+	float: left;
+	padding: 0px;
+	margin: 3px 3px 6px 3px;
+}
+
+#preview img {
+	border: 1px solid #3c7796;
+	margin: 3px 3px 3px 3px;
+}
+
+#preview p {
+	margin: 3px 3px 3px 3px;
+}
+
+#preview h2 {
+	border: 1px solid #3c7796;
+	text-indent: 0.2em;
+	font-size: 12px;
+	font-variant: small-caps;
+	color: #ffffff;
+	margin: 0;
+	padding: 0.5em;
+	background: #3c7796;
+}
+
+#logo {
+	height: 75px;
+	width: 225px;
+	float: left;
+}
+
+.tab {
+	height: 25px;
+	float: right;
+	background: #ffffff;
+	padding: 2px 2px 0px 2px;
+	margin: 0px 6px 2px 0px;
+	font-size: 16px;
+}
+
+#language {
+	height: 25px;
+	float: right;
+	background: #ffffff;
+	padding: 2px 8px 0px 0px;
+	margin: 0px 6px 0px 0px;
+//	text-align: left;
+}
+
+.message {
+	border: 1px solid #aa0000;
+	padding: 0;
+	margin: 6px 3px 6px 3px;
+}
+
+.message h2 {
+	border: 1px solid #ff0000;
+	text-indent: 0.5em;
+	font-size: 12px;
+	font-variant: small-caps;
+	color: #ffffff;
+	margin: 0;
+	padding: 0.5em;
+	background: #ff0000;
+}
+
+.message p {
+	text-align: center;	
+	margin: 1em;
+}
+
+.side_box {
+	width: 276px;
+	border: 1px solid #3c7796;
+	float: left;
+	padding: 0;
+	margin: 0px 0px 6px 0px;
+}
+
+.side_box h2 {
+	border: 1px solid #3c7796;
+	text-indent: 0.5em;
+	font-size: 12px;
+	font-variant: small-caps;
+	color: #ffffff;
+	margin: 0;
+	padding: 0.5em;
+	background: #3c7796;
+}
+
+.side_box input {	
+	font-size: 12px;
+}
+
+.side_box select {	
+	font-size: 12px;
+}
+
+.side_box p {
+	margin: 0.5em;
+}
+
+.label {
+	width: 80px;
+	float: left;
+	margin: 3px;
+	text-indent: 0.8em;
+}
+
+.control {
+	width: 145px;
+	float: left;
+	margin: 3px;
+}
+
+.box {
+	width: 244px;
+	border: 1px solid #3c7796;
+	float: left;
+	padding: 0;
+	margin: 3px 3px 3px 3px;
+}
+
+.box img {
+	border: 1px solid #3c7796;
+}
+
+.box h2 {
+	border: 1px solid #3c7796;
+	text-indent: 0.5em;
+	font-size: 12px;
+	font-variant: small-caps;
+	color: #ffffff;
+	margin: 0;
+	padding: 0.5em;
+	background: #3c7796;
+}
+
+.box p {
+	margin: 5px 10px 5px 5px;
+}
+
+#footer {
+	clear: both;
+	text-align: center;
+	height: 20px;
+	margin: 3px 3px 3px 3px;
+	padding: 1px;
+	border: 5px solid #3c7796;
+}
+
+#footer p {
+	margin: 0;
+	padding: 0;
+}
+
+#language .jack {
+	border: 3px #fff solid;
+	display: inline-block;
+	width: 20px;
+	height: 14px;
+	float: right;
+	margin-left: 10px;
+}
+
+#language .jack:hover {
+	border-color: #963c8f;
+}
