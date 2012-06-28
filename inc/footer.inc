@@ -3,7 +3,7 @@
 
 <div id="footer">
 	<p><small>
-		<a href="http://scannerserver.online02.com">$$PROG_NAME</a> 
+		<a target="_blank" href="https://github.com/chinghanyu/Scanner-Server">$$PROG_NAME</a> 
 		<script type="text/javascript">document.write(lang_about.VERSION);</script>$$VER
 		<script type="text/javascript">document.write(lang_about.RUNNING_AT);</script>
 		<a href="http://$$SERVER_URL">$$SERVER_NAME</a>
