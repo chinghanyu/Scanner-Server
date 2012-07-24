@@ -45,7 +45,7 @@ var lang_scan = {
 	SCAN_BTN		:	'Scan Now',
 	SCAN_BTN_RESULT		:	'Scan+Now',
 
-	SET_SAVE		:	'Save Settings',
+	SET_SAVE		:	'Settings',
 	SAVE_AS_BTN		:	'Save',
 
 	PREVIEW_LINKS		:	'Preview',

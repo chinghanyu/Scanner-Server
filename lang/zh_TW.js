@@ -45,7 +45,7 @@ var lang_scan = {
 	SCAN_BTN		:	'開始掃描',
 	SCAN_BTN_RESULT		:	'%E9%96%8B%E5%A7%8B%E6%8E%83%E6%8F%8F',
 
-	SET_SAVE		:	'儲存設定',
+	SET_SAVE		:	'快速設定',
 	SAVE_AS_BTN		:	'儲存',
 
 	PREVIEW_LINKS		:	'預覽窗格',
