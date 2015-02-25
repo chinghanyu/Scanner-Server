@@ -18,6 +18,7 @@
 	<p>$$SANE_VER</p>
 </div>
 
+<!--
 <div class="box">
 	<h2><script type="text/javascript">document.write(lang_config.COLOR_SCHEME);</script></h2>
 	<form name="color" action="index.cgi">
@@ -46,6 +47,7 @@
 		</p>
 	</form>
 </div>
+-->
 
 <div class="box">
 	<h2><script type="text/javascript">document.write(lang_config.RECENT_SCANS);</script></h2>
