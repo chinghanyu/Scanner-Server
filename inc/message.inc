@@ -1,1 +1,1 @@
-<div class=\'message\'><h2>$$TITLE</h2><p>$$MESSAGE</p></div>
+<div class='alert'><button type='button' class='close' data-dismiss='alert'>&times;</button><strong>$$TITLE</strong> $$MESSAGE</div>

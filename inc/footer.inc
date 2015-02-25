@@ -1,21 +1,8 @@
-
 <!-- footer -->
-
-<div id="footer">
-	<p><small>
-		<a target="_blank" href="https://github.com/chinghanyu/Scanner-Server">$$PROG_NAME</a> 
-		<script type="text/javascript">document.write(lang_about.VERSION);</script>$$VER
-		<script type="text/javascript">document.write(lang_about.RUNNING_AT);</script>
-		<a href="http://$$SERVER_URL">$$SERVER_NAME</a>
-		<script type="text/javascript">document.write(lang_about.LANG_LOCALE);</script>
-		<script type="text/javascript">document.write(lang_about.TRANSLATED_BY);</script>
-		<a id="author_info"></a>
-		<script type="text/javascript">
-			document.getElementById('author_info').href=lang_about.MAIL_AND_SUBJECT;
-			document.getElementById('author_info').innerHTML=lang_about.AUTHOR;
-		</script>
-	</small></p>
-</div>
+  <hr>
+      <footer>
+        <p><small><script type="text/javascript">document.write(lang_about.VERSION);</script>$$VER</small></p>
+      </footer>	
 </div>
 </body>
 </html>
