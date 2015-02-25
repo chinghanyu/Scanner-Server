@@ -27,12 +27,12 @@
         <!-- .nav, .navbar-search, .navbar-form, etc -->
 	<ul class="nav">
 	<li>
-	<a id="tab_scan_image"  class="pull-right"  href="index.cgi?page=scan">Scan Image</a>
+	<a id="tab_scan_image"  href="index.cgi?page=scan">Scan Image</a>
 	<script type="text/javascript">document.getElementById('tab_scan_image').innerHTML=lang_header.TAB_SCAN_IMAGE;</script>
 	</li>
 
 	<li>
-	<a id="tab_recent_scans" href="index.cgi?page=scans">Recent Scans</a>
+	<a id="tab_recent_scans"  href="index.cgi?page=scans">Recent Scans</a>
 	<script type="text/javascript">document.getElementById('tab_recent_scans').innerHTML=lang_header.TAB_RECENT_SCANS;</script>
 	</li>
 
