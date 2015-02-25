@@ -35,11 +35,11 @@
 # ****************
 # General Settings
 # ****************
-NAME="Scanner Server"
+NAME="Servidor de escáner"
 VER="1.3.2"
-SERVER_NAME="BCCL"
-SERVER_URL="bcclib.ee.nchu.edu.tw"
-SERVER_LANG="zh_TW"
+SERVER_NAME="Inicio"
+SERVER_URL="rasposa.local:5002"
+SERVER_LANG="es_AR"
 
 # ****************
 # Functions
